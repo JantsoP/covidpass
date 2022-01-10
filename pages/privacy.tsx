@@ -23,7 +23,7 @@ function Privacy(): JSX.Element {
                                 {t('privacy:generalInfoGitHub')}
                                 &nbsp;
                                 <a href="https://github.com/jantsop/covidpass" className="underline">
-                                    GitHub
+                                    GitHubissa
                                 </a>.
                             </li>
                             <li>

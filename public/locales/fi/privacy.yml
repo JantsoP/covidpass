@@ -8,7 +8,7 @@ generalInfoStoring: Tietojasi ei tallenneta aktiivisen selainistunnon jälkeen, 
 generalInfoThirdParties: Tietoja ei lähetetä kolmansille osapuolille.
 generalInfoHttps: Lähetämme tietosi turvallisesti https:n kautta.
 generalInfoLocation: Palvelimemme sijaitsee Tuusulassa.
-generalInfoGitHub: The source code of this site is available on 
+generalInfoGitHub: Sivuston lähdekoodi on saatavilla
 generalInfoLockScreen: Oletusarvoisesti Apple Wallet -passit ovat käytettävissä lukitusnäytöstä. Tämän voi muuttaa
 settings: asetukissa
 generalInfoProvider: |
