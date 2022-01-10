@@ -302,9 +302,6 @@ function Form(): JSX.Element {
                         {
                             isShareDialogAvailable && <Button text={t('index:share')} onClick={showShareDialog} />
                         }
-                        <Button icon="kofi.png" text={t('common:donate')} onClick={() => {
-                            window.open('https://ko-fi.com/marvinsxtr', '_blank');
-                        }} />
                     </div>
                 }/>
             </form>
